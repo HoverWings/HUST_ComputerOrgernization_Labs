@@ -1,2 +1,2 @@
-# HUST_ComputerOrgernization_Labs
-This is the Computer Orgernization Labs of HUST 2018
+# HUST_ComputerOrginazation_Labs
+This is the Computer Orginazation Labs of HUST 2018
